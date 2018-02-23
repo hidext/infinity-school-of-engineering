@@ -1,0 +1,4 @@
+[submodule "JayVora-SerpentCS/OdooEduERP"]
+	path = JayVora-SerpentCS/OdooEduERP
+	url = git@github.com:JayVora-SerpentCS/OdooEduERP.git
+	branch = 10.0
