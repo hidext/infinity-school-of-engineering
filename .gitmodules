@@ -2,3 +2,8 @@
 	path = JayVora-SerpentCS/OdooEduERP
 	url = git@github.com:JayVora-SerpentCS/OdooEduERP.git
 	branch = 10.0
+
+[submodule "OCA/management-system"]
+	path = OCA/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 10.0
